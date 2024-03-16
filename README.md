@@ -2,11 +2,6 @@
 
 -This repository implements a basic speech emotion recognition (SER) system using Long Short-Term Memory (LSTM) networks and Mel-frequency cepstral coefficients (MFCCs).
 
-
-
-
-
-
 # Getting Started
 
 -Prerequisites: This code requires Python with libraries like TensorFlow, librosa, and NumPy. Install them using pip install tensorflow librosa numpy.
@@ -66,4 +61,5 @@ I'd like to express my gratitude for your willingness to share your opinions wit
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
 
